@@ -1,0 +1,20 @@
+.success{
+    color: green;
+    background-color: rgba(128, 128, 128, 0.13);
+    padding: 20px;
+    width: 300px;
+    border-radius: 20px;
+}
+.srv-validation-message{
+    color: red !important;
+}
+.header{
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.btn-width{
+    width: 150px;
+}
